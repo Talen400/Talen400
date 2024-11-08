@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🦀 I'm a beginner
-
-[My small_blog](Talen/github.io)
