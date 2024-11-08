@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 🦀 I'm a beginner
 
-
-
+Link to the sample section: [Link Text](Talen/github.io)
