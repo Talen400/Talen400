@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talen400)](https://github.com/anuraghazra/github-readme-stats)
