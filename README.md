@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🦀 I'm a beginner ☕ 🖥️
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talen400&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talen400&layout=compact&theme=radical)
 <!--
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
