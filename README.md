@@ -17,4 +17,4 @@ contact: <br>
  </l1>
 
 My github.io:
-<a href='Talen400/github.io'> github.io </a>
+<a href='talen400.github.io'> github.io </a>
