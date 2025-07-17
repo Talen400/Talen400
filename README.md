@@ -15,7 +15,3 @@ She/her
 contact: <br>
 <l1> - [Discord](https://discord.com): `talentedhail400`
  </l1>
-
-My github.io:
-
-[ link ](https://talen400.github.io)
