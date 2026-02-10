@@ -10,7 +10,6 @@ Talen400/Talen400
 
 
 
-20 years old <br>
 She/her
 contact: <br>
 <l1> - [Discord](https://discord.com): `talentedhail400`
