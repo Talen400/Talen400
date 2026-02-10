@@ -10,7 +10,7 @@ Talen400/Talen400
 
 
 
-She/her
+She/her <br>
 contact: <br>
 <l1> - [Discord](https://discord.com): `talentedhail400`
  </l1>
